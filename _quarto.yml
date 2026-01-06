@@ -1,0 +1,35 @@
+project:
+  type: website
+  output-dir: docs
+  
+website:
+  title: "Samuel Finnerty"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Profile
+      - href: publications.qmd
+        text: Publications
+      - href: teaching.qmd
+        text: Teaching
+      - href: writing.qmd
+        text: Writing & Commentary
+      - href: talks.qmd
+        text: Talks & Media 
+      - href: approach.qmd
+        text: Approach
+  page-footer: 
+    left:&#169; 2026 Samuel Finnerty
+    right:Made with [Quarto](https://quarto.org) 
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: false
+
+editor: visual
+
+execute: 
+  freeze: false

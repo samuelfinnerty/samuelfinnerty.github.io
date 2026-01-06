@@ -1,0 +1,21 @@
+---
+title: "Teaching"
+---
+
+## **Lancaster University**
+
+-   **Teaching Associate**, Jan – May 2024\
+    Designed and delivered lectures and labs for undergraduate qualitative methods, and managed teaching assistants during both teaching and marking.
+
+-   **Teaching Assistant**, Oct 2019 – Oct 2023\
+    Delivered undergraduate teaching across Psychology modules including Cognitive Psychology, Developmental Psychology, Neuropsychology, Personality & Individual Differences, Research Methods, Statistics, R Programming, and Open Science Practices. Led RStudio support sessions for student projects. Over 600+ hours total teaching time.
+
+-   **Supervision**\
+    Supervised three undergraduate research projects (2022–23).
+
+-   **Guest Lectures**,\
+    Delivered guest lectures for postgraduate modules in psychology and sustainability, including SGA420 *Navigating Sustainability and Global Environmental Futures*: "Climate Futures Between Collapse and Transformation: Scientists’ Discourse and the Politics of Possibility" in 2025 and *Masters in Social Psychology PSYCH601* "The Psychology of Scientist Activism
+
+**Awards & Recognition**
+
+-   Associate Fellowship of the UK Higher Education Authority (2021) for completion of the Associate Teacher Programme.
