@@ -2,17 +2,11 @@
 title: Profile
 ---
 
-# Welcome
+# Dr. Samuel Finnerty
 
-::::: columns
-::: {.column width="70%" style="padding-right: 15px;"}
+![](images/clipboard-2953036728.png){width="450"}
+
 I am an interdisciplinary social and environmental psychologist whose work examines individual and collective responses to the climate and nature crisis. My research focuses on how identities, moral commitments, and social norms shape engagement with climate action, including participation in activism, responses to protest, and the way scientific communities and institutions position themselves in relation to the climate crisis. I am trained in anthropology (BA, MA), cognitive science (MSc), and social psychology (PhD), and have published high-quality research using a wide range of qualitative and quantitative methods, including surveys, interviews, focus groups, and ethnography.
-:::
-
-::: {.column width="30%"}
-![](assets/images/sam-finnerty.jpg){width="100%" fig-alt="Portrait of Samuel Finnerty"}
-:::
-:::::
 
 My work spans three intersecting domains. First, I study science, communication, and society, with a particular focus on scientist climate advocacy, activism, and questions of credibility and public trust. Second, I examine collective climate action from two perspectives: 1) from the perspective of those engaged in collective action and 2) examining public responses to climate protest and civil disobedience. Third, I investigate institutional climate responses and leadership. My current work at Lancaster University, supported by the Wellcome Trust, explores the ethical and cultural dimensions of sustainability in UK higher education, including how universities conceptualise their responsibilities in addressing the climate crisis.
 
@@ -20,11 +14,11 @@ I have held senior research roles at both the University of Bristol, where I wor
 
 You can find:
 
--   My academic work under **Publications**
--   My teaching under **Teaching**
--   Longer-form writing, blogging, and commentary under **Writing & Commentary**
--   Invited talks and media under **Talks & Media**
--   A summary of how I approach research under **Approach**
+-   My academic work under [**Publications**](https://samuelfinnerty.github.io/publications.html)
+-   My teaching under [**Teaching**](https://samuelfinnerty.github.io/teaching.html)
+-   Longer-form writing, blogging, and commentary under [**Writing & Commentary**](https://samuelfinnerty.github.io/writing.html)
+-   Invited talks and media under [**Talks & Media**](https://samuelfinnerty.github.io/talks.html)
+-   A summary of how I approach research under [**Approach**](https://samuelfinnerty.github.io/approach.html)
 
 ## Connect with me
 
