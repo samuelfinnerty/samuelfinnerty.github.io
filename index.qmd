@@ -2,23 +2,31 @@
 title: Profile
 ---
 
-# Dr. Samuel Finnerty
+# Welcome
 
-![](images/clipboard-2953036728.png){width="750"}
+::::: columns
+::: {.column width="70%" style="padding-right: 15px;"}
+I am an interdisciplinary social/environmental psychologist and behavioural scientist whose work examines individual and collective responses to the climate and nature crisis. My research examines how identities, moral commitments, social norms, and notions of responsibility shape behaviour in response to major societal challenges, particularly the climate and nature crisis. Using mixed-methods approaches spanning ethnography, interviews, surveys, experiments, media analysis, and video-based behavioural analysis, I seek to understand both the psychological processes and real-world behaviours underpinning social change. A distinctive contribution of my work is combining ethnographic depth with psychological theory and behavioural data to generate insights that are both theoretically rigorous and grounded in lived experience.  I am trained in anthropology (BA, MA), cognitive science (MSc), and social psychology (PhD), and have published high-quality research using a wide range of qualitative and quantitative methods, including surveys, interviews, focus groups, and ethnography. This research has included papers on participation in activism, responses to protest, and the way scientific communities and institutions position themselves in relation to the climate crisis.
 
-I am an interdisciplinary social and environmental psychologist whose work examines individual and collective responses to the climate and nature crisis. My research focuses on how identities, moral commitments, and social norms shape engagement with climate action, including participation in activism, responses to protest, and the way scientific communities and institutions position themselves in relation to the climate crisis. I am trained in anthropology (BA, MA), cognitive science (MSc), and social psychology (PhD), and have published high-quality research using a wide range of qualitative and quantitative methods, including surveys, interviews, focus groups, and ethnography.
 
-My work spans three intersecting domains. First, I study science, communication, and society, with a particular focus on scientist climate advocacy, activism, and questions of credibility and public trust. Second, I examine collective climate action from two perspectives: 1) from the perspective of those engaged in collective action and 2) examining public responses to climate protest and civil disobedience. Third, I investigate institutional climate responses and leadership. My current work at Lancaster University, supported by the Wellcome Trust, explores the ethical and cultural dimensions of sustainability in UK higher education, including how universities conceptualise their responsibilities in addressing the climate crisis.
+:::
+
+::: {.column width="30%"}
+![](assets/images/sam-finnerty.jpg){width="100%" fig-alt="Portrait of Samuel Finnerty"}
+:::
+:::::
+
+My work spans three intersecting domains. First, I study science, communication, and society, with a particular focus on scientist climate advocacy, activism, and questions of credibility and public trust. Second, I examine collective climate action from two perspectives: 1) from the perspective of those engaged in collective action and 2) examining public responses to climate protest and civil disobedience. Third, I investigate institutional climate responses and leadership. My work at Lancaster University, supported by the Wellcome Trust, explores the ethical and cultural dimensions of sustainability in UK higher education, including how universities conceptualise their responsibilities in addressing the climate crisis.
 
 I have held senior research roles at both the University of Bristol, where I worked across the Schools of Psychology and Policy Studies researching public attitudes to disruptive climate protest, and at Lancaster University, where I am based in the Social Processes Group within the Department of Psychology conducting research on scientist advocacy and activism, research culture, and universities' climate responses. These positions have allowed me to combine interdisciplinary research, applied policy engagement, and collaborative projects with academic and non-academic partners.
 
 You can find:
 
--   My academic work under [**Publications**](https://samuelfinnerty.github.io/publications.html)
--   My teaching under [**Teaching**](https://samuelfinnerty.github.io/teaching.html)
--   Longer-form writing, blogging, and commentary under [**Writing & Commentary**](https://samuelfinnerty.github.io/writing.html)
--   Invited talks and media under [**Talks & Media**](https://samuelfinnerty.github.io/talks.html)
--   A summary of how I approach research under [**Approach**](https://samuelfinnerty.github.io/approach.html)
+-   My academic work under **Publications**
+-   My teaching under **Teaching**
+-   Longer-form writing, blogging, and commentary under **Writing & Commentary**
+-   Invited talks and media under **Talks & Media**
+-   A summary of how I approach research under **Approach**
 
 ## Connect with me
 

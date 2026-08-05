@@ -4,6 +4,22 @@ title: "Publications"
 
 ## Peer-reviewed articles
 
+-   Finnerty, S., Sachisthal, M., Cologna, V., Dablander, F., Messling, L., van Eck, C. Climate Advocacy and Activism by Scientists: A Narrative Review. PLOS Climate. 2026 <https://doi.org/10.1371/journal.pclm.0000942>.
+
+<!-- -->
+
+-   Finnerty, S. Scientists as Activists: An Ethnography of the “Critical Moments” in Scientists’ Transition to Climate Activism. PLOS Climate. 2026. <https://doi.org/10.1371/journal.pclm.0000828>.
+
+<!-- -->
+
+-   Berglund, O., Davis, C., & Finnerty, S. Assessing Claims of Counterproductivity of Just Stop Oil’s Civil Disobedience. npj Climate Action. 2026. <https://doi.org/10.1038/s44168-026-00347-5>.
+
+<!-- -->
+
+-   Ivory, M., Finnerty, S., Dunn, K., Philpot, R., Warmelink, L. The Integrity of Psychology Assessments in the AI Age: A Critical Examination. Journal of Academic Ethics. 2026; 24:48. <https://doi.org/10.1007/s10805-026-09729-0>.
+
+<!-- -->
+
 -   Finnerty S, Piazza J, Levine M. Climate futures: Scientists’ discourses on collapse versus transformation. British Journal of Social Psychology. 2025;64: e12840. <https://doi.org/10.1111/bjso.12840>.
 
 <!-- -->
@@ -16,12 +32,12 @@ title: "Publications"
 
 ## Preprints and Work in Progress
 
--   Finnerty S. Scientists as Activists: An Ethnography of the “Critical Moments” in Scientists’ Transition to Activism. OSF; 2025. [https://osf.io/preprints/psyarxiv/uxdmb_v](https://osf.io/preprints/psyarxiv/uxdmb_v1)4. In press (PLOS Climate). 
+-   Finnerty, S., Tao, Y., Shaw, H., Philpot, R., Kwon, N., Robinson, S., & Levine, M. (2026). Mind the Research Culture Gap: Staff Perspectives on Ethical, Inclusive, and Sustainable Research Practice at a UK Research Intensive University (M7dp8_v1). PsyArXiv  <https://osf.io/preprints/psyarxiv/m7dp8_v1/>
 
 <!-- -->
 
--   Finnerty, S., Sachisthal, M., Cologna, V., Dablander, F., Messling, L., van Eck, C. Climate Advocacy and Activism by Scientists: A Narrative Review. <https://osf.io/preprints/psyarxiv/6c24e_v1>. Under review (PLOS Climate).  
+-  Tao, Y., Finnerty, S., Robinson, S., Philpot, R., Shaw, H., & Levine, M. (2026). Parenting or partnership? Corpus-assisted analysis of institution-people dynamics in university sustainability reporting. Research Square. <https://doi.org/10.21203/rs.3.rs-9518900/v1>
 
     <!-- -->
 
--   Finnerty S, Piazza J, Levine M. The Expanded Self: Moral and Self-Expansiveness as Drivers of Environmental Action. <https://osf.io/preprints/psyarxiv/am5nk_v2>. Under review (Journal of Social Psychology). 
+-   Finnerty S, Piazza J, Levine M. The Expanded Self: Moral and Self-Expansiveness as Drivers of Environmental Action. <https://osf.io/preprints/psyarxiv/am5nk_v2>. PsyArxiv

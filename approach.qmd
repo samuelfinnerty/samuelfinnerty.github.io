@@ -2,8 +2,12 @@
 title: "Approach"
 ---
 
-## Method
+Many of the challenges facing society today, from climate change and biodiversity loss to public trust, collective action, and institutional responsibility, are fundamentally social and behavioural questions. Understanding them requires more than a single method, dataset, or disciplinary perspective.
 
-## Research with Impact
+My research therefore combines multiple forms of evidence, including ethnography, interviews, surveys, experiments, behavioural observation, video analysis, media research, and digital data. Rather than treating these approaches as alternatives, I use them as complementary tools for understanding how people think, feel, interact, and behave in real-world settings.
 
-How can we generate impact?
+A central principle of my work is that research should remain connected to the people and communities it seeks to understand. Whether working with scientists, activists, policymakers, students, or members of the public, I am interested in listening carefully to lived experience while also examining behaviour as it unfolds in practice. This often involves combining qualitative and quantitative approaches to bridge the gap between what people say, what institutions do, and what happens in everyday life.
+
+I am particularly interested in questions of influence and social change. How do experts shape public understanding? Why do people decide to act collectively? How do institutions encourage or constrain change? Under what conditions do communication, trust, and social norms translate into action? Answering these questions requires attention not only to attitudes and beliefs, but also to relationships, identities, contexts, and behaviour.
+
+This perspective has led me to work across a wide range of settings, including climate activism, scientist advocacy, public engagement with science, institutional sustainability, research culture, emergency response, collective action, and environmental behaviour. Across these areas, my goal is to produce research that is theoretically rigorous, methodologically pluralistic, and socially relevant.
