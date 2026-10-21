@@ -1,0 +1,64 @@
+# Invited and conference talks
+# ----------------------------
+# Newest first; entries appear in the order listed.
+#
+# Fields
+#   year:   year of the talk
+#   kind:   Keynote | Invited talk | Paper | Poster | Symposium (optional)
+#   title:  talk title
+#   event:  conference, workshop, or host
+#   place:  venue and location (optional)
+
+- year: 2026
+  kind: Paper
+  title: "Performing Expertise: Legitimacy and the Negotiation of Scientist Identity in Climate Activism"
+  event: "Nordic Summer University Winter Session Workshop"
+  place: "Halmstad University, Sweden"
+
+- year: 2025
+  kind: Keynote
+  title: "Academics as Agents of Change"
+  event: "Centre for Climate Change and Social Transformations"
+  place: "Cardiff University, UK"
+
+- year: 2025
+  title: "Beyond Research: Identity and Ethical Tensions Among Scientists Engaged in Climate Advocacy"
+  event: "BPS Social Psychology Section Annual Conference"
+  place: "Lady Margaret Hall, University of Oxford, UK"
+
+- year: 2025
+  title: "Climate Futures: Scientists’ Discourses on Collapse versus Transformation"
+  event: "Small Group Meeting: Envisioning the Future as a Driver of Individual and Collective Change for the Sustainable Development"
+  place: "Psychology Institute, Université Paris Cité, Paris, France"
+
+- year: 2025
+  title: "Ethnography of Scientist-Activists: Challenges of Openness and Transparency in Qualitative Research"
+  event: "Qualitative Research Symposium"
+  place: "University of Bath, UK"
+
+- year: 2025
+  title: "Why Are Scientists Becoming Climate Activists?"
+  event: "International Conference on Environmental Psychology"
+  place: "Vilnius, Lithuania"
+
+- year: 2023
+  title: "How Scientist Identity Shapes Environmental Activism"
+  event: "Climate University Conference on Higher Education and the Climate Crisis"
+  place: "Senate House, London, UK"
+
+- year: 2023
+  title: "The Role of Social Psychology in Addressing Climate Breakdown"
+  event: "European Association of Social Psychology General Meeting, pre-conference"
+  place: "Krakow, Poland"
+
+- year: 2023
+  kind: Poster
+  title: "Scientists as Activists: Examining the Intersection between Climate Activism and Scientist Identity"
+  event: "European Association of Social Psychology General Meeting"
+  place: "Krakow, Poland"
+
+- year: 2023
+  kind: Symposium
+  title: "The Role of Social Identity in Pro-environmental Consumption, Activism, and Human Prioritisation"
+  event: "Animal Advocacy Conference"
+  place: "Keynes College, University of Kent, UK"

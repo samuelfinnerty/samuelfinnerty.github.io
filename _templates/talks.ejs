@@ -1,0 +1,18 @@
+```{=html}
+<ol class="entry-list">
+<% let prev = null; %>
+<% for (const item of items) {
+     const year = item.year ? String(item.year) : '';
+     const same = year !== '' && year === prev;
+     prev = year;
+%>
+  <li class="entry<%= same ? ' same-year' : '' %>">
+    <span class="entry-year"><%= same ? '' : year %></span>
+    <div class="entry-body">
+      <p class="entry-title"><%= item.title %></p>
+      <p class="entry-meta"><% if (item.kind) { %><span class="entry-kind"><%= item.kind %></span><% } %><%= item.event %><% if (item.place) { %>, <%= item.place %><% } %>.</p>
+    </div>
+  </li>
+<% } %>
+</ol>
+```

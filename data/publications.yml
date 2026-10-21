@@ -1,0 +1,100 @@
+# Publications
+# ------------
+# This file is the single source for the Publications page and the
+# "Selected publications" list on the home page.
+#
+# To add a paper: copy an entry, paste it at the top of its group,
+# and edit the fields. Entries appear in the order they are listed here.
+#
+# Fields
+#   type:      article | preprint | chapter | book
+#   authors:   as you want them printed; "Finnerty, S." is shown in bold
+#   year:      publication year
+#   title:     article title
+#   venue:     journal, publisher, or preprint server
+#   details:   volume, issue, article number, pages (optional)
+#   doi:       DOI without the https://doi.org/ prefix (optional)
+#   url:       use instead of doi if there is no DOI (optional)
+#   featured:  true to show under "Selected publications" on the home page (keep to 3 or 4)
+#   note:      short note shown after the citation, e.g. "Open access" (optional)
+
+# Peer-reviewed articles ------------------------------------------------
+
+- type: article
+  authors: "Finnerty, S., Sachisthal, M., Cologna, V., Dablander, F., Messling, L., & van Eck, C."
+  year: 2026
+  title: "Climate Advocacy and Activism by Scientists: A Narrative Review"
+  venue: "PLOS Climate"
+  doi: "10.1371/journal.pclm.0000942"
+  featured: true
+
+- type: article
+  authors: "Finnerty, S."
+  year: 2026
+  title: "Scientists as Activists: An Ethnography of the “Critical Moments” in Scientists’ Transition to Climate Activism"
+  venue: "PLOS Climate"
+  doi: "10.1371/journal.pclm.0000828"
+  featured: true
+
+- type: article
+  authors: "Berglund, O., Davis, C., & Finnerty, S."
+  year: 2026
+  title: "Assessing Claims of Counterproductivity of Just Stop Oil’s Civil Disobedience"
+  venue: "npj Climate Action"
+  doi: "10.1038/s44168-026-00347-5"
+  featured: true
+
+- type: article
+  authors: "Ivory, M., Finnerty, S., Dunn, K., Philpot, R., & Warmelink, L."
+  year: 2026
+  title: "The Integrity of Psychology Assessments in the AI Age: A Critical Examination"
+  venue: "Journal of Academic Ethics"
+  details: "24, 48"
+  doi: "10.1007/s10805-026-09729-0"
+
+- type: article
+  authors: "Finnerty, S., Piazza, J., & Levine, M."
+  year: 2025
+  title: "Climate Futures: Scientists’ Discourses on Collapse versus Transformation"
+  venue: "British Journal of Social Psychology"
+  details: "64, e12840"
+  doi: "10.1111/bjso.12840"
+
+- type: article
+  authors: "Finnerty, S., Piazza, J., & Levine, M."
+  year: 2024
+  title: "Between Two Worlds: The Scientist’s Dilemma in Climate Activism"
+  venue: "npj Climate Action"
+  doi: "10.1038/s44168-024-00161-x"
+
+- type: article
+  authors: "Finnerty, S., Piazza, J., & Levine, M."
+  year: 2024
+  title: "Scientists’ Identities Shape Engagement with Environmental Activism"
+  venue: "Communications Earth & Environment"
+  details: "5"
+  doi: "10.1038/s43247-024-01412-9"
+  featured: true
+
+# Preprints and work in progress ---------------------------------------
+
+- type: preprint
+  authors: "Finnerty, S., Tao, Y., Shaw, H., Philpot, R., Kwon, N., Robinson, S., & Levine, M."
+  year: 2026
+  title: "Mind the Research Culture Gap: Staff Perspectives on Ethical, Inclusive, and Sustainable Research Practice at a UK Research Intensive University"
+  venue: "PsyArXiv"
+  url: "https://osf.io/preprints/psyarxiv/m7dp8_v1/"
+
+- type: preprint
+  authors: "Tao, Y., Finnerty, S., Robinson, S., Philpot, R., Shaw, H., & Levine, M."
+  year: 2026
+  title: "Parenting or Partnership? Corpus-Assisted Analysis of Institution–People Dynamics in University Sustainability Reporting"
+  venue: "Research Square"
+  doi: "10.21203/rs.3.rs-9518900/v1"
+
+- type: preprint
+  authors: "Finnerty, S., Piazza, J., & Levine, M."
+  year: ""   # add the year
+  title: "The Expanded Self: Moral and Self-Expansiveness as Drivers of Environmental Action"
+  venue: "PsyArXiv"
+  url: "https://osf.io/preprints/psyarxiv/am5nk_v2"

@@ -1,35 +1,57 @@
 project:
   type: website
-  output-dir: docs
-  
+  output-dir: _site
+  resources:
+    - cv/*.pdf
+    - assets/favicon.svg
+    - assets/fonts/*.woff2
+  render:
+    - "*.qmd"
+
 website:
   title: "Samuel Finnerty"
+  description: "Social and environmental psychologist at Lancaster University, researching scientists' climate advocacy and activism, public responses to climate protest, and universities' climate responses."
+  # When the custom domain is live, change this to it (e.g. https://samuelfinnerty.com)
+  site-url: https://samuelfinnerty.github.io
+  favicon: assets/favicon.svg
+  image: assets/images/sam-finnerty.jpg
+  open-graph: true
+  search: false
+  twitter-card: true
   navbar:
-    left:
-      - href: index.qmd
-        text: Profile
+    title: "Samuel Finnerty"
+    right:
       - href: publications.qmd
         text: Publications
+      - href: talks.qmd
+        text: Talks & media
+      - href: writing.qmd
+        text: Writing
       - href: teaching.qmd
         text: Teaching
-      - href: writing.qmd
-        text: Writing & Commentary
-      - href: talks.qmd
-        text: Talks & Media 
       - href: approach.qmd
         text: Approach
-  page-footer: 
-    left:&#169; 2026 Samuel Finnerty
-    right:Made with [Quarto](https://quarto.org) 
+      - href: cv/Samuel-Finnerty-CV.pdf
+        text: CV
+  page-footer:
+    left: "© 2026 Samuel Finnerty"
+    right: "The stripes show global surface temperature, 1880–2025 (NASA GISTEMP)."
+
 format:
   html:
     theme:
-      - cosmo
-      - brand
-    css: styles.css
+      light: [_theme/light.scss, _theme/rules.scss]
+      dark: [_theme/dark.scss, _theme/rules.scss]
+    respect-user-color-scheme: true
+    css:
+      - assets/fonts/fonts.css
+      - _theme/stripes.css
+    include-before-body: _partials/stripes-rule.html
+    lightbox: true
+    html-math-method: plain
     toc: false
+    anchor-sections: false
+    smooth-scroll: false
+    link-external-newwindow: false
 
 editor: visual
-
-execute: 
-  freeze: false

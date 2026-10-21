@@ -1,0 +1,359 @@
+/*-- scss:rules --*/
+
+// Shared rules for light and dark themes. Colours come from the
+// variables defined in light.scss and dark.scss.
+
+$sans: "Hanken Grotesk", system-ui, sans-serif;
+$serif: "Literata", Georgia, serif;
+
+body {
+  font-family: $serif;
+  font-optical-sizing: auto;
+  line-height: 1.68;
+  background: $paper;
+}
+
+main p,
+main li {
+  hyphens: manual;
+  text-wrap: pretty;
+}
+
+a {
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.18em;
+  &:hover {
+    color: $link-hover;
+  }
+}
+
+:focus-visible {
+  outline: 2px solid $link-hover;
+  outline-offset: 2px;
+}
+
+// ---- Headings ------------------------------------------------------------
+
+h1, .h1, h2, .h2, h3, .h3 {
+  font-family: $serif;
+  color: $ink;
+  letter-spacing: -0.01em;
+}
+
+h1.title, .quarto-title h1 {
+  font-size: clamp(2rem, 4.5vw, 2.6rem);
+  font-weight: 500;
+  line-height: 1.15;
+  margin-bottom: 0.4em;
+}
+
+h2, .h2 {
+  font-size: 1.45rem;
+  font-weight: 500;
+  border-bottom: 1px solid $rule;
+  padding-bottom: 0.3em;
+  margin-top: 2.6rem;
+  margin-bottom: 1.1rem;
+}
+
+h3, .h3 {
+  font-size: 1.12rem;
+  font-weight: 600;
+  margin-top: 1.8rem;
+}
+
+// ---- Stripes -------------------------------------------------------------
+
+// Thin band at the top of every page.
+.stripes-rule {
+  height: 6px;
+  width: 100%;
+}
+
+.home .stripes-rule {
+  display: none;
+}
+
+// Full-width band on the home page.
+.home-stripes {
+  margin-top: -1rem;
+  .stripes {
+    height: clamp(90px, 18vw, 200px);
+  }
+}
+
+.stripes-caption {
+  @media (max-width: 640px) { text-align: left; }
+  font-family: $sans;
+  font-size: 0.78rem;
+  color: $muted;
+  text-align: right;
+  margin-top: 0.4rem;
+  margin-bottom: 2.4rem;
+  p { margin: 0; }
+}
+
+// ---- Navigation and footer ----------------------------------------------
+
+.navbar {
+  font-family: $sans;
+  border-bottom: 1px solid $rule;
+  box-shadow: none;
+}
+
+.navbar-brand .navbar-title {
+  font-family: $serif;
+  font-weight: 500;
+  font-size: 1.15rem;
+  letter-spacing: -0.005em;
+}
+
+.navbar .nav-link {
+  font-size: 0.93rem;
+  font-weight: 500;
+}
+
+.nav-footer {
+  font-family: $sans;
+  font-size: 0.82rem;
+  border-top: 1px solid $rule;
+}
+
+// ---- Home page -----------------------------------------------------------
+
+.home #title-block-header {
+  display: none;
+}
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 190px;
+  gap: 2.5rem;
+  align-items: start;
+  margin-bottom: 1rem;
+
+  @media (max-width: 640px) {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    .hero-portrait, p:has(img.hero-portrait) {
+      order: -1;
+      width: 104px;
+      margin: 0;
+    }
+  }
+}
+
+.hero-name {
+  font-size: clamp(2.4rem, 7vw, 3.6rem);
+  font-weight: 500;
+  line-height: 1.05;
+  letter-spacing: -0.02em;
+  border: 0;
+  margin: 0 0 0.6rem;
+  padding: 0;
+}
+
+.hero-role {
+  font-family: $sans;
+  color: $muted;
+  font-size: 1rem;
+  line-height: 1.45;
+  margin-bottom: 1.3rem;
+}
+
+.hero-lede {
+  font-size: 1.16rem;
+  line-height: 1.6;
+}
+
+.hero-portrait img,
+img.hero-portrait {
+  width: 100%;
+  height: auto;
+  border-radius: 3px;
+}
+
+.hero-links {
+  font-family: $sans;
+  font-size: 0.95rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1.4rem;
+  margin-top: 1.4rem;
+  p { display: contents; }
+  a {
+    text-decoration: none;
+    font-weight: 500;
+    white-space: nowrap;
+    &:hover { text-decoration: underline; }
+  }
+  .bi { margin-right: 0.3em; }
+}
+
+.research-grid {
+  margin: 1.2rem 0 1.8rem;
+
+  > div, > section {
+    display: grid;
+    grid-template-columns: 15rem minmax(0, 1fr);
+    gap: 0 1.6rem;
+    padding: 0.9rem 0;
+    border-top: 1px solid $rule;
+    &:first-child { border-top: 0; padding-top: 0.2rem; }
+
+    @media (max-width: 680px) {
+      grid-template-columns: minmax(0, 1fr);
+    }
+  }
+
+  h3 {
+    margin: 0.1rem 0 0.3rem;
+    font-size: 1.05rem;
+    line-height: 1.35;
+  }
+  p {
+    margin: 0;
+  }
+}
+
+.more-link {
+  font-family: $sans;
+  font-weight: 500;
+  font-size: 0.95rem;
+}
+
+// ---- Publication and talk lists -----------------------------------------
+
+.entry-list {
+  list-style: none;
+  padding: 0;
+  margin: 0 0 2rem;
+}
+
+.entry {
+  display: grid;
+  grid-template-columns: 4.2rem minmax(0, 1fr);
+  gap: 0 1rem;
+  padding: 0.85rem 0;
+  border-top: 1px solid $rule;
+
+  &:first-child { border-top: 0; }
+  &.same-year { border-top-color: transparent; padding-top: 0.2rem; }
+
+  @media (max-width: 560px) {
+    grid-template-columns: minmax(0, 1fr);
+    .entry-year:empty { display: none; }
+  }
+}
+
+.entry-year {
+  font-family: $sans;
+  font-weight: 600;
+  font-size: 0.95rem;
+  color: $muted;
+  padding-top: 0.15rem;
+  font-variant-numeric: tabular-nums;
+}
+
+.entry-body p {
+  margin: 0;
+}
+
+.entry-title {
+  font-size: 1.04rem;
+  font-weight: 500;
+  line-height: 1.4;
+  a {
+    color: $ink;
+    text-decoration-color: $rule;
+    &:hover { color: $link; text-decoration-color: currentColor; }
+  }
+}
+
+.entry-meta {
+  font-size: 0.92rem;
+  color: $muted;
+  line-height: 1.5;
+  margin-top: 0.15rem !important;
+  strong { color: $ink; font-weight: 600; }
+}
+
+.entry-kind {
+  font-family: $sans;
+  font-size: 0.78rem;
+  font-weight: 600;
+  color: $link;
+  margin-right: 0.45em;
+}
+
+.entry-list.compact .entry {
+  grid-template-columns: 3.4rem minmax(0, 1fr);
+  padding: 0.6rem 0;
+}
+
+// Quarto listing wrapper adds spacing we do not need.
+.quarto-listing-container-custom {
+  margin-bottom: 0;
+}
+
+// ---- Photo gallery (Talks page) -------------------------------------------
+
+.gallery {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 0.75rem;
+  margin: 0.5rem 0 1rem;
+
+  @media (max-width: 640px) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .quarto-figure, figure, p {
+    margin: 0;
+  }
+  img {
+    width: 100%;
+    aspect-ratio: 4 / 3;
+    object-fit: cover;
+    border-radius: 2px;
+  }
+  figcaption {
+    font-family: $sans;
+    font-size: 0.8rem;
+    color: $muted;
+    line-height: 1.35;
+    margin-top: 0.35rem;
+  }
+}
+
+// ---- Ordinary lists in content pages --------------------------------------
+
+main ul li {
+  margin-bottom: 0.55rem;
+}
+
+main ul li::marker {
+  color: $muted;
+}
+
+// ---- Spacing fixes -------------------------------------------------------
+
+// On inner pages the stripe band sits above the page title.
+main > .stripes-rule {
+  margin: 0.4rem 0 1.4rem;
+  border-radius: 1px;
+}
+
+.quarto-listing {
+  margin-bottom: 0;
+  padding-bottom: 0;
+}
+
+.quarto-listing .entry-list {
+  margin-bottom: 0.5rem;
+}
+
+.gallery img {
+  object-position: center 30%;
+}

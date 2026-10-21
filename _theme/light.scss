@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+
+
+// Palette: neutral paper and slate ink; links take the cold and warm
+// ends of the warming-stripes scale.
+$paper:      #ffffff;
+$surface:    #f2f4f6;
+$ink:        #1c2633;
+$muted:      #5b6878;
+$rule:       #dde3e8;
+$link:       #08519c;
+$link-hover: #a50f15;
+
+$body-bg: $paper;
+$body-color: $ink;
+$link-color: $link;
+$text-muted: $muted;
+$border-color: $rule;
+$navbar-bg: $paper;
+$navbar-fg: $ink;
+$navbar-hl: $link;
+$footer-bg: $paper;
+$footer-fg: $muted;
+
+$font-family-sans-serif: "Hanken Grotesk", system-ui, sans-serif;
+$font-family-serif: "Literata", Georgia, serif;
+$headings-font-family: $font-family-serif;
+$font-size-root: 17px;

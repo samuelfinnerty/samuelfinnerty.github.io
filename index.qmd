@@ -1,36 +1,80 @@
 ---
-title: Profile
+title: "Samuel Finnerty"
+pagetitle: "Samuel Finnerty"
+title-block-style: none
+body-classes: home
+listing:
+  id: selected-publications
+  contents: data/publications.yml
+  template: _templates/publications-compact.ejs
+  include:
+    featured: true
+  sort: false
 ---
 
-# Welcome
-
-::::: columns
-::: {.column width="70%" style="padding-right: 15px;"}
-I am an interdisciplinary social/environmental psychologist and behavioural scientist whose work examines individual and collective responses to the climate and nature crisis. My research examines how identities, moral commitments, social norms, and notions of responsibility shape behaviour in response to major societal challenges, particularly the climate and nature crisis. Using mixed-methods approaches spanning ethnography, interviews, surveys, experiments, media analysis, and video-based behavioural analysis, I seek to understand both the psychological processes and real-world behaviours underpinning social change. A distinctive contribution of my work is combining ethnographic depth with psychological theory and behavioural data to generate insights that are both theoretically rigorous and grounded in lived experience.  I am trained in anthropology (BA, MA), cognitive science (MSc), and social psychology (PhD), and have published high-quality research using a wide range of qualitative and quantitative methods, including surveys, interviews, focus groups, and ethnography. This research has included papers on participation in activism, responses to protest, and the way scientific communities and institutions position themselves in relation to the climate crisis.
-
-
+::: {.column-screen .home-stripes}
+::: {.stripes role="img" aria-label="Warming stripes: one vertical stripe for each year from 1880 to 2025, running from blue for cooler years to red for warmer years. The stripes turn deep red in recent decades."}
+:::
 :::
 
-::: {.column width="30%"}
-![](assets/images/sam-finnerty.jpg){width="100%" fig-alt="Portrait of Samuel Finnerty"}
+::: stripes-caption
+Global surface temperature, 1880–2025. Each stripe is one year, coloured by its difference from the 1971–2000 average. Data: NASA GISTEMP. After Ed Hawkins' warming stripes.
 :::
+
+::::: hero
+:::: hero-text
+```{=html}
+<h1 class="hero-name">Samuel Finnerty</h1>
+```
+
+::: hero-role
+Social and environmental psychologist\
+Senior Teaching Associate, Department of Psychology, Lancaster University
+:::
+
+::: hero-lede
+I am an interdisciplinary social and environmental psychologist and behavioural scientist. My research examines how identities, moral commitments, social norms, and notions of responsibility shape individual and collective responses to the climate and nature crisis.
+:::
+
+::: hero-links
+[[]{.bi .bi-file-earmark-text}CV (PDF)](cv/Samuel-Finnerty-CV.pdf)
+[[]{.bi .bi-bluesky}Bluesky](https://bsky.app/profile/samuelfinnerty.bsky.social)
+[[]{.bi .bi-linkedin}LinkedIn](https://www.linkedin.com/in/samuel-finnerty-31541640/)
+[[]{.bi .bi-github}GitHub](https://github.com/samuelfinnerty)
+[[]{.bi .bi-building}Lancaster profile](https://www.lancaster.ac.uk/psychology/about-us/people/samuel-finnerty)
+:::
+::::
+
+![](assets/images/sam-finnerty.jpg){.hero-portrait .nolightbox fig-alt="Portrait of Samuel Finnerty"}
 :::::
 
-My work spans three intersecting domains. First, I study science, communication, and society, with a particular focus on scientist climate advocacy, activism, and questions of credibility and public trust. Second, I examine collective climate action from two perspectives: 1) from the perspective of those engaged in collective action and 2) examining public responses to climate protest and civil disobedience. Third, I investigate institutional climate responses and leadership. My work at Lancaster University, supported by the Wellcome Trust, explores the ethical and cultural dimensions of sustainability in UK higher education, including how universities conceptualise their responsibilities in addressing the climate crisis.
+## Research
 
-I have held senior research roles at both the University of Bristol, where I worked across the Schools of Psychology and Policy Studies researching public attitudes to disruptive climate protest, and at Lancaster University, where I am based in the Social Processes Group within the Department of Psychology conducting research on scientist advocacy and activism, research culture, and universities' climate responses. These positions have allowed me to combine interdisciplinary research, applied policy engagement, and collaborative projects with academic and non-academic partners.
+My work spans three intersecting areas.
 
-You can find:
+::: research-grid
+### Science, communication, and society
 
--   My academic work under **Publications**
--   My teaching under **Teaching**
--   Longer-form writing, blogging, and commentary under **Writing & Commentary**
--   Invited talks and media under **Talks & Media**
--   A summary of how I approach research under **Approach**
+Scientist climate advocacy and activism, and questions of credibility and public trust.
 
-## Connect with me
+### Collective climate action
 
-[<i class="fa-brands fa-github"></i> GitHub](https://github.com/samuelfinnerty){target="_blank"}\
-[<i class="fa-brands fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/samuel-finnerty-31541640/){target="_blank"}\
-[<i class="fa-solid fa-globe"></i> Bluesky](https://bsky.app/profile/samuelfinnerty.bsky.social){target="_blank"}\
-[<i class="fa-solid fa-building-columns"></i> University profile](https://www.lancaster.ac.uk/psychology/about-us/people/samuel-finnerty){target="_blank"}
+Collective action from the perspective of those taking part, and public responses to climate protest and civil disobedience.
+
+### Institutional climate responses
+
+Institutional climate responses and leadership. My work at Lancaster University, supported by the Wellcome Trust, explores the ethical and cultural dimensions of sustainability in UK higher education, including how universities conceptualise their responsibilities in addressing the climate crisis.
+:::
+
+I use mixed methods, spanning ethnography, interviews, surveys, experiments, media analysis, and video-based behavioural analysis, to understand both the psychological processes and the real-world behaviours underpinning social change. My work combines ethnographic depth with psychological theory and behavioural data. [How I approach research](approach.qmd){.more-link}
+
+## Background
+
+I have held senior research roles at the University of Bristol, where I worked across the Schools of Psychology and Policy Studies researching public attitudes to disruptive climate protest, and at Lancaster University, where I am based in the Social Processes Group within the Department of Psychology, conducting research on scientist advocacy and activism, research culture, and universities' climate responses. These positions have allowed me to combine interdisciplinary research, applied policy engagement, and collaborative projects with academic and non-academic partners. I trained in anthropology (BA, MA), cognitive science (MSc), and social psychology (PhD).
+
+## Selected publications
+
+::: {#selected-publications}
+:::
+
+[All publications](publications.qmd){.more-link}

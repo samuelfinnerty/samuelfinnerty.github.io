@@ -1,0 +1,72 @@
+# Builds the site and publishes it to GitHub Pages.
+#
+# Runs whenever anything is committed to main (including edits made in the
+# GitHub web editor), and can also be started by hand from the Actions tab.
+#
+# Steps:
+#   1. If cv/Samuel-Finnerty-CV.docx exists, convert it to PDF.
+#   2. Rebuild the warming-stripes graphic from data/gistemp-annual.csv.
+#   3. Render the Quarto site.
+#   4. Publish it.
+
+name: Publish site
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Install LibreOffice and fonts for the CV
+        if: hashFiles('cv/*.docx') != ''
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq --no-install-recommends \
+            libreoffice-writer-nogui \
+            fonts-crosextra-carlito fonts-crosextra-caladea fonts-liberation2
+
+      - name: Convert CV to PDF
+        if: hashFiles('cv/*.docx') != ''
+        run: |
+          soffice --headless --convert-to pdf --outdir cv cv/Samuel-Finnerty-CV.docx
+          ls -l cv
+
+      - name: Rebuild warming stripes
+        run: python3 scripts/make_stripes.py
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+
+      - name: Render site
+        run: quarto render
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Publish to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

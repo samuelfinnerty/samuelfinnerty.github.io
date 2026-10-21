@@ -1,0 +1,26 @@
+/*-- scss:defaults --*/
+
+
+$paper:      #121820;
+$surface:    #1a222c;
+$ink:        #e3e8ed;
+$muted:      #9aa6b3;
+$rule:       #2b3542;
+$link:       #8cc0e4;
+$link-hover: #fc9272;
+
+$body-bg: $paper;
+$body-color: $ink;
+$link-color: $link;
+$text-muted: $muted;
+$border-color: $rule;
+$navbar-bg: $paper;
+$navbar-fg: $ink;
+$navbar-hl: $link;
+$footer-bg: $paper;
+$footer-fg: $muted;
+
+$font-family-sans-serif: "Hanken Grotesk", system-ui, sans-serif;
+$font-family-serif: "Literata", Georgia, serif;
+$headings-font-family: $font-family-serif;
+$font-size-root: 17px;

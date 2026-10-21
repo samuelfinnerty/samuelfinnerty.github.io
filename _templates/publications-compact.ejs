@@ -1,0 +1,15 @@
+```{=html}
+<ol class="entry-list compact">
+<% for (const item of items) {
+     const link = item.doi ? 'https://doi.org/' + item.doi : (item.url || '');
+%>
+  <li class="entry">
+    <span class="entry-year"><%= item.year || '' %></span>
+    <div class="entry-body">
+      <p class="entry-title"><% if (link) { %><a href="<%- link %>"><%= item.title %></a><% } else { %><%= item.title %><% } %></p>
+      <p class="entry-meta"><em><%= item.venue %></em></p>
+    </div>
+  </li>
+<% } %>
+</ol>
+```

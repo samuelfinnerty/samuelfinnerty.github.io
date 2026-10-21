@@ -1,0 +1,20 @@
+```{=html}
+<ol class="entry-list">
+<% let prev = null; %>
+<% for (const item of items) {
+     const year = item.year ? String(item.year) : '';
+     const link = item.doi ? 'https://doi.org/' + item.doi : (item.url || '');
+     const authors = (item.authors || '').replace('Finnerty, S.', '<strong>Finnerty, S.</strong>');
+     const same = year !== '' && year === prev;
+     prev = year;
+%>
+  <li class="entry<%= same ? ' same-year' : '' %>">
+    <span class="entry-year"><%= same ? '' : year %></span>
+    <div class="entry-body">
+      <p class="entry-title"><% if (link) { %><a href="<%- link %>"><%= item.title %></a><% } else { %><%= item.title %><% } %></p>
+      <p class="entry-meta"><%= authors %> <em><%= item.venue %></em><% if (item.details) { %>, <%= item.details %><% } %>.<% if (item.note) { %> <%= item.note %>.<% } %></p>
+    </div>
+  </li>
+<% } %>
+</ol>
+```

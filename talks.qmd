@@ -1,75 +1,42 @@
 ---
-title: "Talks & Media"
+title: "Talks & media"
+listing:
+  id: talks
+  contents: data/talks.yml
+  template: _templates/talks.ejs
+  sort: false
 ---
 
-![Presenting on Research Culture at Research Culture Day 2024](assets/images/2024_research_culture_day.jpg){fig-cap="Research Culture Day, Lancaster University, 2024" fig-align="left" width="100%"}
+::: gallery
+![Nordic Summer University winter session, Halmstad University, 2026](assets/images/halmstad-2026-seminar.jpg){group="talks" fig-alt="Samuel presenting to a seminar group seated around a long table"}
 
-## Invited academic talks
+![Keynote, Academics as Agents of Change, Cardiff University, 2025](assets/images/cardiff-keynote-2025.jpg){group="talks" fig-alt="Samuel speaking beside a screen showing the keynote title"}
 
-**Keynotes and invited addresses** 
+![BPS Social Psychology Section Annual Conference, Oxford, 2025](assets/images/bps-oxford-2025.jpg){group="talks" fig-alt="Samuel at a lectern in a wood-panelled hall, with a slide titled Beyond Research"}
 
--   Keynote Speaker. Academics as Agents of Change. Centre for Climate Change and Social Transformations, Cardiff University, UK, 2025.  
+![Exploring Climate Action in Higher Education workshop, 2025](assets/images/climate-action-he-workshop-2025.jpg){group="talks" fig-alt="Workshop participants standing in front of a sandstone building"}
 
-![](images/clipboard-207721318.png){width="500"}
+![Research Culture Day, Lancaster University, 2024](assets/images/research-culture-day-2024.jpg){group="talks" fig-alt="Samuel presenting a slide on ethical research practices to a seated audience"}
 
-**Conferences & presentations (Selection)** 
+![Nordic Summer University winter session, Halmstad University, 2026](assets/images/halmstad-2026-group.jpg){group="talks" fig-alt="Workshop participants outside a glass-fronted university building"}
+:::
 
--  	Performing Expertise: Legitimacy and the Negotiation of Scientist Identity in Climate Activism (Full paper talk). Nordic Summer University Winter Session Workshop, Halmstad University, Sweden (2026). 
+## Talks
 
-![](assets/images/PXL_20260423_135010349.MP.jpg){fig-align="left" width="600"}
-<!-- -->
-![](assets/images/PXL_20260424_112837680.jpg){fig-align="left" width="500"}
+<!-- Talks are listed from data/talks.yml. -->
 
--   Beyond Research: Identity and Ethical Tensions Among Scientists Engaged in Climate Advocacy. BPS Social Psychology Section Annual Conference. Lady Margaret Hall, University of Oxford, UK, 2025. 
+::: {#talks}
+:::
 
-![](images/clipboard-1088784393.png){width="500"}
+## Media and podcasts
 
--   Climate Futures: Scientists' Discourses on Collapse versus Transformation. Small Group Meeting – Envisioning the Future as a Driver of Individual and Collective Change for the Sustainable Development. Psychology Institute of the Université Paris Cité, Paris, France, 2025. 
+-   Guest, *Transforming Tomorrow* podcast. "When Scientists Become Activists". Season 3, Episode 30, 2026. [Listen](https://pod.co/transforming-tomorrow/when-scientists-become-activists)
+-   Panellist, *Scientists, Advocacy, and Public Trust* (Newswise, 2025). Invited expert on academic advocacy, alongside panellists from MIT, Caltech, and the Association of American Universities. [Watch](https://vimeo.com/1124387582)
+-   Guest, *This is Lancaster: Global research tales from the North of England* podcast. "Reimagining Research Culture: Universities' response to the climate crisis". [Listen](https://open.spotify.com/episode/5UVYguIc4k4FgydqQecWoD)
+-   Research footage contributed to the documentaries *#ClimateScam?* (Cornwall Climate Care, 2024), *Plan Z: From Lab Coats to Handcuffs* (Morozov & Jones, 2024), and *Climate Carnage: Whose Job Is It to Save the Planet* (The Guardian, 2022).
 
-<!-- -->
+## Workshops and public engagement
 
--   Ethnography of Scientist-activists: Challenges of Openness and Transparency in Qualitative Research. Qualitative Research Symposium, Bath University, UK, 2025. 
-
-<!-- -->
-
--   Why are Scientists Becoming Climate Activists? International Conference on Environmental Psychology. Qualitative Research Symposium, Vilnius, Lithuania, 2025. 
-
-<!-- -->
-
--   How Scientist Identity Shapes Environmental Activism. Climate University Conference on Higher Education and the Climate crisis. Senate House, London. 2023.  
-
-<!-- -->
-
--   The Role of Social Psychology in Addressing Climate Breakdown. June 30th, 2023. European Association of Social Psychology General Meeting Pre-Conference Krakow, Poland, 2023 
-
-<!-- -->
-
--   Scientists as activists: examining the intersection between climate activism, and scientist identity (Poster). European Association of Social Psychology General Meeting, Krakow, Poland, 2023.  
-
-<!-- -->
-
--   The role of social identity in pro-environmental consumption, activism, and human prioritisation (Symposium). June 2023. Animal Advocacy Conference, Keynes College, University of Kent. 
-
-## Media & Podcasts
-
-- 	Podcasts: Finnerty, S. (2026). When Scientists Become Activists. Transforming Tomorrow, Season 3, Episode 30 (38:45). Available at: https://pod.co/transforming-tomorrow/when-scientists-become-activists  
-
-<!-- -->
-
--   Panellist, Scientists, Advocacy, and Public Trust (Newswise, 2025) – invited expert on academic advocacy. Panellists from MIT, CALTECH, the American Association of Universities <https://vimeo.com/1124387582>  
-
-<!-- -->
-
--   Guest on *This is Lancaster. Global research tales from the North of England podcast*. Topic: Reimagining Research Culture: Universities' response to the climate crisis <https://open.spotify.com/episode/5UVYguIc4k4FgydqQecWoD?si=415ad01913cc4668>
-
--   Research Footage Contributions to Documentaries. Research footage incorporated in #ClimateScam? (Cornwall Climate Care, 2024), Plan Z: From Lab Coats to Handcuffs (Morozov & Jones, 2024), and Climate Carnage: Whose Job Is It to Save the Planet (The Guardian, 2022), supporting wider public discussion on climate activism and responsibility. 
-
-### Workshops & Public Engagement
-
--   Designer, Organiser & Facilitator, Cuppa Conundrums: Ethics in Practice series (Lancaster University, 2024–26) – interdisciplinary workshops on climate responsibility, AI, and research ethics. See here for podcast <https://open.spotify.com/show/3dineWPW6jNZfQMZhnfOtb> 
-
--   Designer, Organiser & Facilitator, Exploring Climate Action in Higher Education workshops (Lancaster University / Wellcome Trust, 2024–25) – cross-institutional workshops. [Summary](https://osf.io/tmbqa/overview)
-
-![](images/clipboard-3540053002.jpeg){fig-align="left" width="600"}
-
--   Chair, What Role Can Social Science Play in the Climate Emergency? (2022) – public dialogue featuring Dr Gail Bradbrook (Extinction Rebellion Co-founder), Prof Stellan Vinthagen, and Dr. Sara Vestergren. 
+-   Designer, organiser, and facilitator, *Cuppa Conundrums: Ethics in Practice* (Lancaster University, 2024–26). Interdisciplinary workshops on climate responsibility, AI, and research ethics. [Podcast](https://open.spotify.com/show/3dineWPW6jNZfQMZhnfOtb)
+-   Designer, organiser, and facilitator, *Exploring Climate Action in Higher Education* (Lancaster University and Wellcome Trust, 2024–25). Cross-institutional workshops. [Summary](https://osf.io/tmbqa/overview)
+-   Chair, *What Role Can Social Science Play in the Climate Emergency?* (2022). Public dialogue with Dr Gail Bradbrook (Extinction Rebellion co-founder), Prof Stellan Vinthagen, and Dr Sara Vestergren.
