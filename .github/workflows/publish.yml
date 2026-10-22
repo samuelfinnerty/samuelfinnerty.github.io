@@ -38,7 +38,22 @@ jobs:
           sudo apt-get update -qq
           sudo apt-get install -y -qq --no-install-recommends \
             libreoffice-writer-nogui \
-            fonts-crosextra-carlito fonts-crosextra-caladea fonts-liberation2
+            fonts-crosextra-carlito fonts-crosextra-caladea fonts-liberation2 \
+            fonts-ebgaramond
+          # The CV is set in Garamond, which is not free to install.
+          # Substitute EB Garamond, a close open-source revival.
+          mkdir -p ~/.config/fontconfig
+          cat > ~/.config/fontconfig/fonts.conf <<'XML'
+          <?xml version="1.0"?>
+          <!DOCTYPE fontconfig SYSTEM "fonts.dtd">
+          <fontconfig>
+            <alias binding="same">
+              <family>Garamond</family>
+              <prefer><family>EB Garamond 12</family><family>EB Garamond</family></prefer>
+            </alias>
+          </fontconfig>
+          XML
+          fc-cache -f
 
       - name: Convert CV to PDF
         if: hashFiles('cv/*.docx') != ''

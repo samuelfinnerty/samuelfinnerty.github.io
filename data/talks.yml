@@ -10,17 +10,17 @@
 #   place:  venue and location (optional)
 
 - year: 2026
-  kind: Paper
+  kind: Invited talk
   title: "The Effects of Scientist Climate Advocacy and Activism"
-  event: "Priestly Climate Centre for Climate Futures"
-  place: "Leeds University, UK"
-  
+  event: "Priestley Centre for Climate Futures"
+  place: "University of Leeds, UK"
+
 - year: 2026
-  kind: Paper
-  title: "Scientist Climate Advocacy and Activism: Why is it Happening and What are its Consequences?"
+  kind: Invited talk
+  title: "Scientist Climate Advocacy and Activism: Why Is It Happening and What Are Its Consequences?"
   event: "Environmental Politics Group"
   place: "University of Manchester, UK"
-  
+
 - year: 2026
   kind: Paper
   title: "Performing Expertise: Legitimacy and the Negotiation of Scientist Identity in Climate Activism"

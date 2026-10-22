@@ -1,7 +1,7 @@
 # Publications
 # ------------
-# This file is the single source for the Publications page and the
-# "Selected publications" list on the home page.
+# This file is the source for the Publications page. (Papers shown on the
+# home page under "What I work on" are listed in index.qmd.)
 #
 # To add a paper: copy an entry, paste it at the top of its group,
 # and edit the fields. Entries appear in the order they are listed here.
@@ -15,7 +15,6 @@
 #   details:   volume, issue, article number, pages (optional)
 #   doi:       DOI without the https://doi.org/ prefix (optional)
 #   url:       use instead of doi if there is no DOI (optional)
-#   featured:  true to show under "Selected publications" on the home page (keep to 3 or 4)
 #   note:      short note shown after the citation, e.g. "Open access" (optional)
 
 # Peer-reviewed articles ------------------------------------------------
@@ -26,7 +25,6 @@
   title: "Climate Advocacy and Activism by Scientists: A Narrative Review"
   venue: "PLOS Climate"
   doi: "10.1371/journal.pclm.0000942"
-  featured: true
 
 - type: article
   authors: "Finnerty, S."
@@ -34,7 +32,6 @@
   title: "Scientists as Activists: An Ethnography of the “Critical Moments” in Scientists’ Transition to Climate Activism"
   venue: "PLOS Climate"
   doi: "10.1371/journal.pclm.0000828"
-  featured: true
 
 - type: article
   authors: "Berglund, O., Davis, C., & Finnerty, S."
@@ -42,7 +39,6 @@
   title: "Assessing Claims of Counterproductivity of Just Stop Oil’s Civil Disobedience"
   venue: "npj Climate Action"
   doi: "10.1038/s44168-026-00347-5"
-  featured: true
 
 - type: article
   authors: "Ivory, M., Finnerty, S., Dunn, K., Philpot, R., & Warmelink, L."
@@ -74,7 +70,6 @@
   venue: "Communications Earth & Environment"
   details: "5"
   doi: "10.1038/s43247-024-01412-9"
-  featured: true
 
 # Preprints and work in progress ---------------------------------------
 

@@ -3,13 +3,6 @@ title: "Samuel Finnerty"
 pagetitle: "Samuel Finnerty"
 title-block-style: none
 body-classes: home
-listing:
-  id: selected-publications
-  contents: data/publications.yml
-  template: _templates/publications-compact.ejs
-  include:
-    featured: true
-  sort: false
 ---
 
 ::: {.column-screen .home-stripes}
@@ -33,10 +26,12 @@ Senior Teaching Associate, Department of Psychology, Lancaster University
 :::
 
 ::: hero-lede
-I am an interdisciplinary social and environmental psychologist and behavioural scientist. My research examines how identities, moral commitments, social norms, and notions of responsibility shape individual and collective responses to the climate and nature crisis.
+Hi, I'm Samuel. I study how people and institutions respond to the climate and nature crisis, with a particular focus on scientists: how their expertise is trusted and contested, how they take part in public life, and when that involvement shapes what others think and do. I also study how the public judges disruptive protest, and how universities understand their own responsibility to act.
 :::
 
 ::: hero-links
+[[]{.bi .bi-envelope}s.finnerty[at]lancaster.ac.uk]{.hero-email}
+[[]{.bi .bi-person-vcard}ORCID](https://orcid.org/0000-0002-6617-3866)
 [[]{.bi .bi-file-earmark-text}CV (PDF)](cv/Samuel-Finnerty-CV.pdf)
 [[]{.bi .bi-bluesky}Bluesky](https://bsky.app/profile/samuelfinnerty.bsky.social)
 [[]{.bi .bi-linkedin}LinkedIn](https://www.linkedin.com/in/samuel-finnerty-31541640/)
@@ -48,33 +43,46 @@ I am an interdisciplinary social and environmental psychologist and behavioural 
 ![](assets/images/sam-finnerty.jpg){.hero-portrait .nolightbox fig-alt="Portrait of Samuel Finnerty"}
 :::::
 
-## Research
+I came to psychology from anthropology, and most of my work combines ethnography and interviews with surveys, experiments, and behavioural data. I am interested in the gap between what people and institutions say about the climate crisis and what they do.
 
-My work spans three intersecting areas.
+## What I work on
 
-::: research-grid
-### Science, communication, and society
+The common thread is legitimacy and responsibility: who is seen as entitled to act on the climate crisis, in what ways, and with what consequences for trust and action.
 
-Scientist climate advocacy and activism, and questions of credibility and public trust.
+::: questions
+### What role should scientists play in public life, and when does their expertise make a difference?
 
-### Collective climate action
+Many scientists now speak publicly about climate change, through communication, advocacy, and, for some, activism. I study scientists as social actors: how they reconcile norms of objectivity and impartiality with public engagement, and how different audiences judge that engagement. So far this has included survey, interview, and ethnographic work on why and how scientists engage, how their understanding of what it means to be a scientist shapes that engagement, the moments that lead some to activism, and how they imagine the climate futures ahead. I am now turning to the consequences of that engagement: whether scientists' public action changes media coverage, policy debate, or other people's willingness to act.
 
-Collective action from the perspective of those taking part, and public responses to climate protest and civil disobedience.
-
-### Institutional climate responses
-
-Institutional climate responses and leadership. My work at Lancaster University, supported by the Wellcome Trust, explores the ethical and cultural dimensions of sustainability in UK higher education, including how universities conceptualise their responsibilities in addressing the climate crisis.
+::: key-papers
+- [Scientists' identities shape engagement with environmental activism](https://doi.org/10.1038/s43247-024-01412-9), *Communications Earth & Environment*, 2024
+- [Between two worlds: The scientist's dilemma in climate activism](https://doi.org/10.1038/s44168-024-00161-x), *npj Climate Action*, 2024
+- [Scientists as activists: An ethnography of the "critical moments"](https://doi.org/10.1371/journal.pclm.0000828), *PLOS Climate*, 2026
+- [Climate futures: Scientists' discourses on collapse versus transformation](https://doi.org/10.1111/bjso.12840), *British Journal of Social Psychology*, 2025
+- [Climate advocacy and activism by scientists: A narrative review](https://doi.org/10.1371/journal.pclm.0000942), *PLOS Climate*, 2026
 :::
 
-I use mixed methods, spanning ethnography, interviews, surveys, experiments, media analysis, and video-based behavioural analysis, to understand both the psychological processes and the real-world behaviours underpinning social change. My work combines ethnographic depth with psychological theory and behavioural data. [How I approach research](approach.qmd){.more-link}
+### When is disruptive climate protest seen as legitimate?
 
-## Background
+I study how the public and the media judge disruptive climate protest, including whether claims that protest such as Just Stop Oil's is counterproductive stand up to the evidence.
 
-I have held senior research roles at the University of Bristol, where I worked across the Schools of Psychology and Policy Studies researching public attitudes to disruptive climate protest, and at Lancaster University, where I am based in the Social Processes Group within the Department of Psychology, conducting research on scientist advocacy and activism, research culture, and universities' climate responses. These positions have allowed me to combine interdisciplinary research, applied policy engagement, and collaborative projects with academic and non-academic partners. I trained in anthropology (BA, MA), cognitive science (MSc), and social psychology (PhD).
+::: key-papers
+- [Assessing claims of counterproductivity of Just Stop Oil's civil disobedience](https://doi.org/10.1038/s44168-026-00347-5), *npj Climate Action*, 2026
+:::
 
-## Selected publications
+### How do universities understand and act on their responsibility for the climate crisis?
 
-::: {#selected-publications}
+I study how universities frame their responsibilities, and how their leaders interpret and act on climate commitments. This draws on interviews with Vice-Chancellors, Pro-Vice-Chancellors, and Deans, staff surveys on research culture, and analysis of sustainability reporting. Much of this work was part of the Wellcome-funded Reimagining Research Practices project at Lancaster.
+
+::: key-papers
+- [Parenting or partnership? Institution–people dynamics in university sustainability reporting](https://doi.org/10.21203/rs.3.rs-9518900/v1), Research Square preprint, 2026
+:::
 :::
 
 [All publications](publications.qmd){.more-link}
+
+## Background
+
+I trained in anthropology at Maynooth University (BA, MA), where I did ethnographic fieldwork in Tanzania on HIV/AIDS stigma. I then worked in international development, recruiting and supporting volunteers for education projects in India and Cambodia, before studying cognitive science at University College Dublin (MSc) and social psychology at Lancaster (PhD).
+
+Alongside my PhD, I worked on DSTL, DfT, and EPSRC-funded projects on how citizens and first responders behave in emergencies, developing frameworks for coding video of real-world behaviour. I have since been a Senior Research Associate at the University of Bristol, researching public responses to climate protest, and at Lancaster, on the Reimagining Research Practices project. I am now a Senior Teaching Associate in the Department of Psychology, where I am part of the Social Processes Group, and an Associate Editor of *Global Environmental Psychology*.

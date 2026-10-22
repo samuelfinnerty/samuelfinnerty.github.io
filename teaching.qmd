@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "Teaching & service"
 ---
 
 ## Lancaster University
@@ -28,3 +28,11 @@ Supervised three undergraduate research projects (2022–23).
 ## Recognition
 
 -   Associate Fellow of the UK Higher Education Academy (2021), for completion of the Associate Teacher Programme.
+
+## Service
+
+-   Associate Editor, *Global Environmental Psychology*.
+-   Reviewer for *npj Climate Action*, *Humanities and Social Sciences Communications*, *Journal of Science Communication*, *Journal of Academic Ethics*, *Cognition*, *Environmental Psychology Open*, and *Global Environmental Psychology*, and for DEFRA.
+-   Lead organiser and chair, Social Processes Area Research Colloquium (SPARC), Lancaster University (2024–25).
+-   Visiting Fellow, University of Bristol (2024).
+-   Member, International Association of Applied Psychology.
