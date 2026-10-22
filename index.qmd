@@ -30,7 +30,7 @@ Hi, I'm Samuel. I study how people and institutions respond to the climate and n
 :::
 
 ::: hero-links
-s.finnerty\[at\]lancaster.ac.uk [ORCID](https://orcid.org/0000-0002-6617-3866) [CV (PDF)](cv/Samuel-Finnerty-CV.pdf) [Bluesky](https://bsky.app/profile/samuelfinnerty.bsky.social) [LinkedIn](https://www.linkedin.com/in/samuel-finnerty-31541640/) [GitHub](https://github.com/samuelfinnerty) [Lancaster profile](https://www.lancaster.ac.uk/psychology/about-us/people/samuel-finnerty)
+s.finnerty\[at\]lancaster.ac.uk [ORCID](https://orcid.org/0000-0002-6617-3866) [CV (PDF)](cv/Samuel-Finnerty-CV.pdf) [Bluesky](https://bsky.app/profile/samuelfinnerty.bsky.social) [LinkedIn](https://www.linkedin.com/in/samuel-finnerty-31541640/) [Lancaster profile](https://www.lancaster.ac.uk/psychology/about-us/people/samuel-finnerty)
 :::
 ::::::
 
@@ -56,7 +56,7 @@ Many scientists now speak publicly about climate change, through communication, 
 - [Climate advocacy and activism by scientists: A narrative review](https://doi.org/10.1371/journal.pclm.0000942), *PLOS Climate*, 2026
 :::
 
-### When is disruptive climate protest seen as legitimate?
+### What are the effects of disruptive climate protest?
 
 I study how the public and the media judge disruptive climate protest, including whether claims that protest such as Just Stop Oil's is counterproductive stand up to the evidence.
 
