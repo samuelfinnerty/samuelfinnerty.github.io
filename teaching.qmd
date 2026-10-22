@@ -1,5 +1,5 @@
 ---
-title: "Teaching & service"
+title: "Teaching & Academic Service"
 ---
 
 ## Lancaster University
@@ -14,25 +14,25 @@ Designed and delivered lectures and labs for undergraduate qualitative methods, 
 
 ### Teaching Assistant, October 2019 to October 2023
 
-Delivered undergraduate teaching across Psychology modules, including Cognitive Psychology, Developmental Psychology, Neuropsychology, Personality and Individual Differences, Research Methods, Statistics, R Programming, and Open Science Practices. Led RStudio support sessions for student projects. Over 600 hours of teaching in total.
+Delivered undergraduate teaching across Psychology modules, including Cognitive Psychology, Developmental Psychology, Neuropsychology, Personality and Individual Differences, Research Methods, Statistics, R Programming, and Open Science Practices. Led RStudio support sessions for student projects. Over 700 hours of teaching in total.
 
 ### Supervision
 
-Supervised three undergraduate research projects (2022–23).
+Supervision of undergraduate and postgraduate dissertation projects.
 
 ### Guest lectures
 
--   "Climate Futures Between Collapse and Transformation: Scientists' Discourse and the Politics of Possibility". SGA420 *Navigating Sustainability and Global Environmental Futures*, 2025.
--   "The Psychology of Scientist Activism". PSYCH601, MSc Social Psychology.
+- "Climate Futures Between Collapse and Transformation: Scientists' Discourse and the Politics of Possibility". SGA420 *Navigating Sustainability and Global Environmental Futures*, 2025.
+- "The Psychology of Scientist Activism". PSYCH601, MSc Social Psychology.
 
 ## Recognition
 
--   Associate Fellow of the UK Higher Education Academy (2021), for completion of the Associate Teacher Programme.
+- Associate Fellow of the UK Higher Education Academy (2021), for completion of the Associate Teacher Programme.
 
 ## Service
 
--   Associate Editor, *Global Environmental Psychology*.
--   Reviewer for *npj Climate Action*, *Humanities and Social Sciences Communications*, *Journal of Science Communication*, *Journal of Academic Ethics*, *Cognition*, *Environmental Psychology Open*, and *Global Environmental Psychology*, and for DEFRA.
--   Lead organiser and chair, Social Processes Area Research Colloquium (SPARC), Lancaster University (2024–25).
--   Visiting Fellow, University of Bristol (2024).
--   Member, International Association of Applied Psychology.
+- Associate Editor, *Global Environmental Psychology*.
+- Reviewer for *npj Climate Action*, *Humanities and Social Sciences Communications*, *Journal of Science Communication*, *Journal of Academic Ethics*, *Cognition*, *Environmental Psychology Open*, and *Global Environmental Psychology*, and for DEFRA.
+- Lead organiser and chair, Social Processes Area Research Colloquium (SPARC), Lancaster University (2024–25).
+- Visiting Fellow, University of Bristol (2024).
+- Member, International Association of Applied Psychology.

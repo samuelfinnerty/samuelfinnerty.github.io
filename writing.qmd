@@ -1,11 +1,11 @@
 ---
-title: "Writing & commentary"
+title: "Commentary & Blog"
 ---
 
 Short-form writing translating research for non-academic audiences.
 
--   [How climate scientists balance the tension between research and public protest: new study](https://theconversation.com/how-climate-scientists-balance-the-tension-between-research-and-public-protest-new-study-274916). *The Conversation*, 2026.
--   [Technological optimism, climate action, and how scientists frame solutions](https://www.linkedin.com/pulse/technological-optimism-climate-action-how-scientists-frame-finnerty-s4pse/). LinkedIn, 2025.
--   [Behind the paper: 'Between Two Worlds: The Scientist's Dilemma in Climate Activism'](https://communities.springernature.com/posts/between-two-worlds-the-scientist-s-dilemma-in-climate-activism). *Springer Nature Research Communities*, 2024.
--   [Responding to the climate crisis: Samuel Finnerty on opportunities and challenges around activism](https://www.bps.org.uk/psychologist/responding-climate-crisis). *The Psychologist*, 2023.
--   Vestergren, S., Finnerty, S., & Acar, Y. G. [Here's why we need climate protests, even if some think they're annoying](https://theconversation.com/heres-why-we-need-climate-protests-even-if-some-think-theyre-annoying-172191). *The Conversation*, 2021.
+- [How climate scientists balance the tension between research and public protest: new study](https://theconversation.com/how-climate-scientists-balance-the-tension-between-research-and-public-protest-new-study-274916). *The Conversation*, 2026.
+- [Technological optimism, climate action, and how scientists frame solutions](https://www.linkedin.com/pulse/technological-optimism-climate-action-how-scientists-frame-finnerty-s4pse/). LinkedIn, 2025.
+- [Behind the paper: 'Between Two Worlds: The Scientist's Dilemma in Climate Activism'](https://communities.springernature.com/posts/between-two-worlds-the-scientist-s-dilemma-in-climate-activism). *Springer Nature Research Communities*, 2024.
+- [Responding to the climate crisis: Samuel Finnerty on opportunities and challenges around activism](https://www.bps.org.uk/psychologist/responding-climate-crisis). *The Psychologist*, 2023.
+- Vestergren, S., Finnerty, S., & Acar, Y. G. [Here's why we need climate protests, even if some think they're annoying](https://theconversation.com/heres-why-we-need-climate-protests-even-if-some-think-theyre-annoying-172191). *The Conversation*, 2021.
