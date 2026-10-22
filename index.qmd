@@ -5,17 +5,17 @@ title-block-style: none
 body-classes: home
 ---
 
-::: {.column-screen .home-stripes}
+:::: {.column-screen .home-stripes}
 ::: {.stripes role="img" aria-label="Warming stripes: one vertical stripe for each year from 1880 to 2025, running from blue for cooler years to red for warmer years. The stripes turn deep red in recent decades."}
 :::
-:::
+::::
 
 ::: stripes-caption
 Global surface temperature, 1880–2025. Each stripe is one year, coloured by its difference from the 1971–2000 average. Data: NASA GISTEMP. After Ed Hawkins' warming stripes.
 :::
 
-::::: hero
-:::: hero-text
+::::::: hero
+:::::: hero-text
 ```{=html}
 <h1 class="hero-name">Samuel Finnerty</h1>
 ```
@@ -30,18 +30,12 @@ Hi, I'm Samuel. I study how people and institutions respond to the climate and n
 :::
 
 ::: hero-links
-[[]{.bi .bi-envelope}s.finnerty[at]lancaster.ac.uk]{.hero-email}
-[[]{.bi .bi-person-vcard}ORCID](https://orcid.org/0000-0002-6617-3866)
-[[]{.bi .bi-file-earmark-text}CV (PDF)](cv/Samuel-Finnerty-CV.pdf)
-[[]{.bi .bi-bluesky}Bluesky](https://bsky.app/profile/samuelfinnerty.bsky.social)
-[[]{.bi .bi-linkedin}LinkedIn](https://www.linkedin.com/in/samuel-finnerty-31541640/)
-[[]{.bi .bi-github}GitHub](https://github.com/samuelfinnerty)
-[[]{.bi .bi-building}Lancaster profile](https://www.lancaster.ac.uk/psychology/about-us/people/samuel-finnerty)
+s.finnerty\[at\]lancaster.ac.uk [ORCID](https://orcid.org/0000-0002-6617-3866) [CV (PDF)](cv/Samuel-Finnerty-CV.pdf) [Bluesky](https://bsky.app/profile/samuelfinnerty.bsky.social) [LinkedIn](https://www.linkedin.com/in/samuel-finnerty-31541640/) [GitHub](https://github.com/samuelfinnerty) [Lancaster profile](https://www.lancaster.ac.uk/psychology/about-us/people/samuel-finnerty)
 :::
-::::
+::::::
 
 ![](assets/images/sam-finnerty.jpg){.hero-portrait .nolightbox fig-alt="Portrait of Samuel Finnerty"}
-:::::
+:::::::
 
 I came to psychology from anthropology, and most of my work combines ethnography and interviews with surveys, experiments, and behavioural data. I am interested in the gap between what people and institutions say about the climate crisis and what they do.
 
@@ -49,10 +43,10 @@ I came to psychology from anthropology, and most of my work combines ethnography
 
 The common thread is legitimacy and responsibility: who is seen as entitled to act on the climate crisis, in what ways, and with what consequences for trust and action.
 
-::: questions
+:::::: questions
 ### What role should scientists play in public life, and when does their expertise make a difference?
 
-Many scientists now speak publicly about climate change, through communication, advocacy, and, for some, activism. I study scientists as social actors: how they reconcile norms of objectivity and impartiality with public engagement, and how different audiences judge that engagement. So far this has included survey, interview, and ethnographic work on why and how scientists engage, how their understanding of what it means to be a scientist shapes that engagement, the moments that lead some to activism, and how they imagine the climate futures ahead. I am now turning to the consequences of that engagement: whether scientists' public action changes media coverage, policy debate, or other people's willingness to act.
+Many scientists now speak publicly about climate change, through communication, advocacy, and, for some, activism. I study scientists as social actors: how they reconcile norms of objectivity and impartiality with public engagement, and how different audiences judge that engagement. So far this has included survey, interview, and ethnographic work on why and how scientists engage, how their understanding of what it means to be a scientist shapes that engagement, the moments that lead some to activism, and how they imagine the climate futures ahead. I am now turning to the consequences of that engagement, for example, whether scientists' public action changes media coverage, policy debate, or other people's willingness to act.
 
 ::: key-papers
 - [Scientists' identities shape engagement with environmental activism](https://doi.org/10.1038/s43247-024-01412-9), *Communications Earth & Environment*, 2024
@@ -77,7 +71,7 @@ I study how universities frame their responsibilities, and how their leaders int
 ::: key-papers
 - [Parenting or partnership? Institution–people dynamics in university sustainability reporting](https://doi.org/10.21203/rs.3.rs-9518900/v1), Research Square preprint, 2026
 :::
-:::
+::::::
 
 [All publications](publications.qmd){.more-link}
 
