@@ -2,8 +2,6 @@
 title: "Commentary & Blog"
 ---
 
-Short-form writing translating research for non-academic audiences.
-
 -   Finnerty, S., & Dablander, F. [Judge scientists' climate advocacy on its wider impacts, not only its risks](https://blogs.lse.ac.uk/impactofsocialsciences/2026/11/09/judge-scientists-climate-advocacy-on-its-wider-impacts-not-only-its-risks/). *LSE Impact Blog*, 2026.
 
     [![](assets/images/lse_impact_blog.png){.nolightbox width="420px" fig-alt="Screenshot of the article on the LSE Impact Blog"}](https://blogs.lse.ac.uk/impactofsocialsciences/2026/11/09/judge-scientists-climate-advocacy-on-its-wider-impacts-not-only-its-risks/)
